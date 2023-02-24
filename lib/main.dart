@@ -1,6 +1,4 @@
-import 'package:chat_gpt_clone/provider/chat_data.dart';
 import 'package:flutter/material.dart';
-import 'package:provider/provider.dart';
 
 import 'screens/home_screen.dart';
 

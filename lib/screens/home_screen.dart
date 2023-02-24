@@ -22,12 +22,12 @@ class HomeScreen extends StatelessWidget {
         drawer: const MyDrawer(),
         body: Column(
           children: [
-            Flexible(
+            const Flexible(
               child: ChatConvo(),
             ),
             Row(
               children: [
-                Expanded(
+                const Expanded(
                   child: MyTextField(),
                 ),
               ],
