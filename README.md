@@ -15,7 +15,7 @@ Real-time chat - the messages are delivered and received in real-time, making th
 
 Customizable - you can modify the UI and functionality of the application to suit your specific needs.
 
-To run the ChatGPT Clone in Flutter, follow these steps:
+# To run the ChatGPT Clone in Flutter, follow these steps:
 
 Clone the repository to your local machine.
 
