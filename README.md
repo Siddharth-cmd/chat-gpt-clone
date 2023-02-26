@@ -4,7 +4,6 @@ Welcome to ChatGPT Clone in Flutter!
 
 ![](https://github.com/Siddharth-cmd/chat-gpt-clone/blob/main/chat_gpt_preview.gif) 
 
-This is a chat application built using the Flutter framework, which allows you to have conversations with ChatGPT, a large language model trained by OpenAI.
 
 # Here are some key features of the ChatGPT Clone:
 
